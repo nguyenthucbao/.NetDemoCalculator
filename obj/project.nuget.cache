@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZkSP4d9PIB6Cg4f8sr82RL+dLl7hImx3QquoPsTWujpAKA24CtlnqpA00AvSFRbAhhsiKXv8ODjUPynpwb53EA==",
+  "dgSpecHash": "eCJLo1UaPI22pb3a91V6Wqem3klllqMHnigcwzLDXSyNVVKeah7JBWrWTfP7iRJCJg4z60q8JY0xLBTHWzT+fA==",
   "success": true,
-  "projectFilePath": "D:\\Exercises\\APScore\\Demo.NET\\Demo.NET.csproj",
+  "projectFilePath": "D:\\Exercises\\Git project\\.NetDemoCalculator\\Demo.NET.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

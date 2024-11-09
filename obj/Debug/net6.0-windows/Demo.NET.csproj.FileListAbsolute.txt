@@ -21,3 +21,24 @@ D:\Exercises\APScore\Demo.NET\obj\Debug\net6.0-windows\refint\Demo.NET.dll
 D:\Exercises\APScore\Demo.NET\obj\Debug\net6.0-windows\Demo.NET.pdb
 D:\Exercises\APScore\Demo.NET\obj\Debug\net6.0-windows\Demo.NET.genruntimeconfig.cache
 D:\Exercises\APScore\Demo.NET\obj\Debug\net6.0-windows\ref\Demo.NET.dll
+D:\Exercises\Git project\.NetDemoCalculator\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Exercises\Git project\.NetDemoCalculator\obj\Debug\net6.0-windows\App.g.cs
+D:\Exercises\Git project\.NetDemoCalculator\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Exercises\Git project\.NetDemoCalculator\obj\Debug\net6.0-windows\Demo.NET_MarkupCompile.cache
+D:\Exercises\Git project\.NetDemoCalculator\obj\Debug\net6.0-windows\Demo.NET_MarkupCompile.lref
+D:\Exercises\Git project\.NetDemoCalculator\obj\Debug\net6.0-windows\Demo.NET.dll
+D:\Exercises\Git project\.NetDemoCalculator\obj\Debug\net6.0-windows\refint\Demo.NET.dll
+D:\Exercises\Git project\.NetDemoCalculator\obj\Debug\net6.0-windows\Demo.NET.pdb
+D:\Exercises\Git project\.NetDemoCalculator\bin\Debug\net6.0-windows\Demo.NET.exe
+D:\Exercises\Git project\.NetDemoCalculator\bin\Debug\net6.0-windows\Demo.NET.deps.json
+D:\Exercises\Git project\.NetDemoCalculator\bin\Debug\net6.0-windows\Demo.NET.runtimeconfig.json
+D:\Exercises\Git project\.NetDemoCalculator\bin\Debug\net6.0-windows\Demo.NET.dll
+D:\Exercises\Git project\.NetDemoCalculator\bin\Debug\net6.0-windows\Demo.NET.pdb
+D:\Exercises\Git project\.NetDemoCalculator\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Exercises\Git project\.NetDemoCalculator\obj\Debug\net6.0-windows\Demo.NET.g.resources
+D:\Exercises\Git project\.NetDemoCalculator\obj\Debug\net6.0-windows\Demo.NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exercises\Git project\.NetDemoCalculator\obj\Debug\net6.0-windows\Demo.NET.AssemblyInfoInputs.cache
+D:\Exercises\Git project\.NetDemoCalculator\obj\Debug\net6.0-windows\Demo.NET.AssemblyInfo.cs
+D:\Exercises\Git project\.NetDemoCalculator\obj\Debug\net6.0-windows\Demo.NET.csproj.CoreCompileInputs.cache
+D:\Exercises\Git project\.NetDemoCalculator\obj\Debug\net6.0-windows\Demo.NET.genruntimeconfig.cache
+D:\Exercises\Git project\.NetDemoCalculator\obj\Debug\net6.0-windows\ref\Demo.NET.dll

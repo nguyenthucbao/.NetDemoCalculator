@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Exercises\\APScore\\Demo.NET\\Demo.NET.csproj",
+      "projectUniqueName": "D:\\Exercises\\Git project\\.NetDemoCalculator\\Demo.NET.csproj",
       "projectName": "Demo.NET",
-      "projectPath": "D:\\Exercises\\APScore\\Demo.NET\\Demo.NET.csproj",
+      "projectPath": "D:\\Exercises\\Git project\\.NetDemoCalculator\\Demo.NET.csproj",
       "packagesPath": "C:\\Users\\H1karin\\.nuget\\packages\\",
-      "outputPath": "D:\\Exercises\\APScore\\Demo.NET\\obj\\",
+      "outputPath": "D:\\Exercises\\Git project\\.NetDemoCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\H1karin\\AppData\\Roaming\\NuGet\\NuGet.Config",
